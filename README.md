@@ -19,8 +19,6 @@ Lenguajes de programacion que uso actualmente
   <img src="sources/images/languages/html.png" width="50" height="40">
 </div>
 
-<br><br>
-
 ## Tecnologias
 
 Aquellas tecnologias y sistemas que utilizo tanto en el trabajo como en mis proyectos.
@@ -31,12 +29,6 @@ Aquellas tecnologias y sistemas que utilizo tanto en el trabajo como en mis proy
 <div class="tab">
   <img src="sources/images/tech/mysql.jpg" width="100" height="50">
   <img src="sources/images/tech/hadoop.png" width="100" height="50">
-</div>
-
-<br>
-
-
-<div class="tab">
   <img src="sources/images/tech/teradata.png" width="120" height="50">
   <img src="sources/images/tech/postgresql.png" width="100" height="50">
 </div>
@@ -52,8 +44,6 @@ Aquellas tecnologias y sistemas que utilizo tanto en el trabajo como en mis proy
 ### Otros
 
 <img src="sources/images/tech/git.png" width="70" height="60">
-
-<br><br>
 
 ## Contacto
 
