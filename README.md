@@ -49,17 +49,10 @@ Aquellas tecnologias y sistemas que utilizo tanto en el trabajo como en mis proy
 
 Estas son mis redes y maneras de contactarme:
 
-<img src="sources/images/contact/email.png" width="70" height="60">
+<a href="mailto:santiagomenendez@outlook.com"><img src="sources/images/contact/email.png" width="70" height="60"></a>
+<a href="https://www.linkedin.com/in/menendezsantiago/"><img src="sources/images/contact/linkedin.png" width="70" height="60"></a>
+<a href="https://apicv.santimenendez19.repl.co/"><img src="sources/images/contact/restapi.png" width="70" height="60"></a>
 
-Email: **santiagomenendez@outlook.com**
-
-<img src="sources/images/contact/linkedin.png" width="70" height="60">
-
-<a href="https://www.linkedin.com/in/menendezsantiago/">Perfil de Linkedin</a>
-
-<img src="sources/images/contact/restapi.png" width="70" height="60">
-
-<a href="https://apicv.santimenendez19.repl.co/">Rest API CV</a>
-
+Rest API:
 - GET: Ver mas informacion de mi (Curriculum Vitae)
 - POST: Enviarme un comentario a mi mail desde la API
