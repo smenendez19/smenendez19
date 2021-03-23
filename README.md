@@ -9,20 +9,15 @@ Tambien me interesa el Desarrollo Web y asi como la tecnologia en general.
 
 Lenguajes de programacion que uso actualmente
 
-<img src="sources/images/languages/python.png" width="50" height="40"> 
-
-<img src="sources/images/languages/java.png" width="50" height="40">
-
-<img src="sources/images/languages/javascript.png" width="50" height="40">
-
-<img src="sources/images/languages/bash.png" width="50" height="40">
-
-<img src="sources/images/languages/cplusplus.png" width="50" height="40">
-
-<img src="sources/images/languages/sql.png" width="50" height="40">
-
-<img src="sources/images/languages/html.png" width="50" height="40">
-
+<div class="tab">
+  <img src="sources/images/languages/python.png" width="50" height="40">
+  <img src="sources/images/languages/java.png" width="50" height="40">
+  <img src="sources/images/languages/javascript.png" width="50" height="40">
+  <img src="sources/images/languages/bash.png" width="50" height="40">
+  <img src="sources/images/languages/cplusplus.png" width="50" height="40">
+  <img src="sources/images/languages/sql.png" width="50" height="40">
+  <img src="sources/images/languages/html.png" width="50" height="40">
+</div>
 
 <br><br>
 
@@ -32,15 +27,19 @@ Aquellas tecnologias y sistemas que utilizo tanto en el trabajo como en mis proy
 
 ### Big Data/Bases de Datos
 
-<img src="sources/images/tech/mysql.jpg" width="100" height="50">
 
-<img src="sources/images/tech/hadoop.png" width="100" height="50">
+<div class="tab">
+  <img src="sources/images/tech/mysql.jpg" width="100" height="50">
+  <img src="sources/images/tech/hadoop.png" width="100" height="50">
+</div>
 
 <br>
 
-<img src="sources/images/tech/teradata.png" width="120" height="50">
 
-<img src="sources/images/tech/postgresql.png" width="100" height="50">
+<div class="tab">
+  <img src="sources/images/tech/teradata.png" width="120" height="50">
+  <img src="sources/images/tech/postgresql.png" width="100" height="50">
+</div>
 
 ### Servicios en la Nube
 
