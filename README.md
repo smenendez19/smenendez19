@@ -26,23 +26,23 @@ Aquellas tecnologias y sistemas que utilizo tanto en el trabajo como en mis proy
 
 
 <div class="tab">
-  <img src="sources/images/tech/mysql.jpg" width="100" height="50">
-  <img src="sources/images/tech/hadoop.png" width="100" height="50">
-  <img src="sources/images/tech/teradata.png" width="120" height="50">
-  <img src="sources/images/tech/postgresql.png" width="100" height="50">
+  <img src="sources/images/tech/mysql.jpg" width="90" height="50">
+  <img src="sources/images/tech/hadoop.png" width="90" height="50">
+  <img src="sources/images/tech/teradata.png" width="90" height="50">
+  <img src="sources/images/tech/postgresql.png" width="90" height="50">
 </div>
 
 ### Servicios en la Nube
 
-<img src="sources/images/tech/googlecloud.jpg" width="100" height="50">
+<img src="sources/images/tech/googlecloud.jpg" width="80" height="50">
 
 ### Backend Web
 
-<img src="sources/images/tech/django.png" width="100" height="50">
+<img src="sources/images/tech/django.png" width="80" height="50">
 
 ### Otros
 
-<img src="sources/images/tech/git.png" width="70" height="60">
+<img src="sources/images/tech/git.png" width="50" height="40">
 
 ## Contacto
 
@@ -55,3 +55,7 @@ Estas son mis redes y maneras de contactarme:
 Rest API:
 - GET: Ver mas informacion de mi (Curriculum Vitae)
 - POST: Enviarme un comentario a mi mail desde la API
+
+## Estadisticas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santimenendez19&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
