@@ -14,7 +14,6 @@ Lenguajes de programacion que uso actualmente
   <img src="sources/images/languages/java.png" width="50" height="40">
   <img src="sources/images/languages/javascript.png" width="50" height="40">
   <img src="sources/images/languages/bash.png" width="50" height="40">
-  <img src="sources/images/languages/cplusplus.png" width="50" height="40">
   <img src="sources/images/languages/sql.png" width="50" height="40">
   <img src="sources/images/languages/html.png" width="50" height="40">
 </div>
