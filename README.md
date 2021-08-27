@@ -69,7 +69,7 @@
 <a href="https://www.linkedin.com/in/menendezsantiago/"><img src="sources/images/contact/linkedin.svg" width="70" height="60"></a> 
 <a href="https://apicv.santimenendez19.repl.co/curriculum"><img src="sources/images/contact/api.svg" width="70" height="60"></a>
 
-## 🔗 Sources of my templates and icons
+## 🔗 Sources of templates and icons i used
 
 - Simple Icons: <https://simpleicons.org/>
 - Github readme stats: <https://github.com/anuraghazra/github-readme-stats> 
