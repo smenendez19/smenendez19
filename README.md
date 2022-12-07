@@ -58,7 +58,6 @@
   <img src="sources/images/tech/icons8-git-48.png">
   <img src="sources/images/tech/icons8-kubernetes-48.png">
   <img src="sources/images/tech/icons8-office-365-48.png">
-  <img src="sources/images/tech/icons8-docker-48.png">
 </div>
 
 ## Stats
