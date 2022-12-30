@@ -1,4 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/d5040352-92ae-4bda-8de3-d157e20e36e8.svg)](https://wakatime.com/@d5040352-92ae-4bda-8de3-d157e20e36e8)
 
     ____    __    ____  _______  __        ______   ______   .___  ___.  _______ 
     \   \  /  \  /   / |   ____||  |      /      | /  __  \  |   \/   | |   ____|
