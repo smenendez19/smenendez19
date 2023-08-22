@@ -14,7 +14,7 @@
 - 🎈 It's my GitHub Profile where i upload my projects and other codes that im learning in my path
 - 🎧 I'm **Santiago Menendez**, 25 years old
 - 📚 I'm a Developer since 2017
-- 💼 I'm working as **Backend Developer** since 2019
+- 💼 I'm working as **Backend Developer**
 - 🎓 Studing **Computer Engineer** in **Universidad Nacional de La Matanza** since 2016
 - 💻 I have interests in **Full-Stack Developer**, **Data Engineer** and **Software Engineer**
 - 🎮 I like **Videogames**
