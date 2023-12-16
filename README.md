@@ -1,23 +1,23 @@
 
-    ____    __    ____  _______  __        ______   ______   .___  ___.  _______ 
-    \   \  /  \  /   / |   ____||  |      /      | /  __  \  |   \/   | |   ____|
-     \   \/    \/   /  |  |__   |  |     |  ,----'|  |  |  | |  \  /  | |  |__   
-      \            /   |   __|  |  |     |  |     |  |  |  | |  |\/|  | |   __|  
-       \    /\    /    |  |____ |  `----.|  `----.|  `--'  | |  |  |  | |  |____ 
-        \__/  \__/     |_______||_______| \______| \______/  |__|  |__| |_______|
+                            ____    __    ____  _______  __        ______   ______   .___  ___.  _______ 
+                            \   \  /  \  /   / |   ____||  |      /      | /  __  \  |   \/   | |   ____|
+                             \   \/    \/   /  |  |__   |  |     |  ,----'|  |  |  | |  \  /  | |  |__   
+                              \            /   |   __|  |  |     |  |     |  |  |  | |  |\/|  | |   __|  
+                               \    /\    /    |  |____ |  `----.|  `----.|  `--'  | |  |  |  | |  |____ 
+                                \__/  \__/     |_______||_______| \______| \______/  |__|  |__| |_______|
 
-
-<img src="sources/images/kitten.gif" width="150" height="150">
-
+<p align="center">
+    <img src="sources/images/kitten.gif" style="width:40%; margin: auto">
+</p>
 ## 👍 About me
 
-- 🎈 It's my GitHub Profile where i upload my projects and other codes that im learning in my path
-- 🎧 I'm **Santiago Menendez**, 25 years old
-- 📚 I'm a Developer since 2017
-- 💼 Actually i'm working as **Software Developer** in Ualá
+- 🎈 It's my GitHub Profile where i upload my projects and other things
+- 🎧 I'm **Santiago Menendez**, 26 years old
+- 📚 Developer since 2018
+- 💼 I'm working as **Backend Developer** in Ualá
 - 🎓 Studing **Computer Engineer** in **Universidad Nacional de La Matanza** since 2016
-- 💻 I have interests in **Full-Stack Developer**, **Data Engineer** and **Software Developer**
-- 🎮 I like **Videogames**
+- 💻 Interests in **Full-Stack Developer** and **Software Developer**
+- 🎮 **Games**, **Anime**, **Movies**, **Rock**
 - 🌎 **Spanish** and **English**
 
 ## 💻 Tech
@@ -89,7 +89,7 @@
 
 </br>
 
-## 🔗 Sources of templates and icons i used
+## 🔗 Sources of templates and icons
 
 - Icons8: <https://icons8.com/>
 - Github readme stats: <https://github.com/anuraghazra/github-readme-stats>
