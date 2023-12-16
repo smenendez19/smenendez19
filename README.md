@@ -9,7 +9,8 @@
 <p align="center">
     <img src="sources/images/kitten.gif" style="width:40%; margin: auto">
 </p>
-## 👍 About me
+
+## About me 👍
 
 - 🎈 It's my GitHub Profile where i upload my projects and other things
 - 🎧 I'm **Santiago Menendez**, 26 years old
