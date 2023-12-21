@@ -57,6 +57,7 @@
   <img src="sources/images/tech/web/icons8-heroku-48.png">
   <img src="sources/images/tech/web/icons8-vue-js-48.png">
   <img src="sources/images/tech/icons8-nodejs-48.png">
+  <img src="sources/images/tech/web/icons8-spring-boot-48">
 </div>
 
 ### Other techs
@@ -65,6 +66,7 @@
   <img src="sources/images/tech/icons8-docker-48.png">
   <img src="sources/images/tech/icons8-git-48.png">
   <img src="sources/images/tech/icons8-kubernetes-48.png">
+  <img src="sources/images/tech/icons8-terraform-48.png">
   <img src="sources/images/tech/icons8-office-365-48.png">
 </div>
 
