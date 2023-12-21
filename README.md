@@ -57,7 +57,7 @@
   <img src="sources/images/tech/web/icons8-heroku-48.png">
   <img src="sources/images/tech/web/icons8-vue-js-48.png">
   <img src="sources/images/tech/icons8-nodejs-48.png">
-  <img src="sources/images/tech/web/icons8-spring-boot-48">
+  <img src="sources/images/tech/web/icons8-spring-boot-48.png">
 </div>
 
 ### Other techs
