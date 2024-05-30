@@ -72,11 +72,11 @@
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=santimenendez19&count_private=true&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santimenendez19&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Views](https://komarev.com/ghpvc/?username=santimenendez19&color=brightgreen)
+![Views](https://komarev.com/ghpvc/?username=smenendez19&color=brightgreen)
 
 ## ☎️ Contact
 
