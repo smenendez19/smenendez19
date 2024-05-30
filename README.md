@@ -84,10 +84,10 @@
   <h3><img src="sources/images/contact/icons8-gmail-48.png" width="20" height="20" style="vertical-align:middle; display:inline;"> <a href="mailto:santiagomenendez@outlook.com">santiagomenendez@outlook.com</a></h3>
 </p>
 <p>
-  <h3><img src="sources/images/contact/icons8-linkedin-48.png" width="20" height="20" style="vertical-align:middle; display:inline;"> <a href="https://www.linkedin.com/in/menendezsantiago/">linkedin.com/in/menendezsantiago</a></h3>
+  <h3><img src="sources/images/contact/icons8-linkedin-48.png" width="20" height="20" style="vertical-align:middle; display:inline;"> <a href="https://www.linkedin.com/in/smenendez19">linkedin.com/in/smenendez19</a></h3>
 </p>
 <p>
-  <h3><img src="sources/images/contact/icons8-web-32.png" width="20" height="20" style="vertical-align:middle; display:inline;"> <a href="https://santimenendez19.github.io/linktree">santimenendez19.github.io/linktree</a></h3>
+  <h3><img src="sources/images/contact/icons8-web-32.png" width="20" height="20" style="vertical-align:middle; display:inline;"> <a href="https://smenendez19.github.io/linktree">smenendez19.github.io/linktree</a></h3>
 </p>
 
 </br>
