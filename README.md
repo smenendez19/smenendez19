@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-24C5FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smenendez19)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=Black)](https://x.com/santimenendez19)
-[![Linktree](https://img.shields.io/badge/LINKTREE-1A00FF?style=for-the-badge&logo=link&logoColor=Black)](smenendez19.github.io/linktree)
+[![Linktree](https://img.shields.io/badge/Linktree-1A00FF?style=for-the-badge&logo=link&logoColor=Black)](https://smenendez19.github.io/linktree/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A00FF?style=for-the-badge&logo=link&logoColor=Black)](https://smenendez19.github.io/portfolio/)
 [![Mail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail)](mailto:santiagomenendez@outlook.com)
 
 ## About me 👍
@@ -18,7 +19,7 @@
 - 📚 Developer since 2018
 - 💼 I'm working as **Backend Developer** in Ualá
 - 🎓 Studing **Computer Engineer** in **Universidad Nacional de La Matanza** since 2016
-- 💻 Interests in **Full-Stack Developer** and **Backend Developer**
+- 💻 Interests in **Full-Stack Developer** and **Software Developer**
 - 🎮 **Games**, **Anime**, **Movies**, **F1**, **Rock**, **Nu Metal**
 - 🌎 **Spanish** and **English**
 
