@@ -1,4 +1,3 @@
-
                             ____    __    ____  _______  __        ______   ______   .___  ___.  _______ 
                             \   \  /  \  /   / |   ____||  |      /      | /  __  \  |   \/   | |   ____|
                              \   \/    \/   /  |  |__   |  |     |  ,----'|  |  |  | |  \  /  | |  |__   
@@ -6,9 +5,11 @@
                                \    /\    /    |  |____ |  `----.|  `----.|  `--'  | |  |  |  | |  |____ 
                                 \__/  \__/     |_______||_______| \______| \______/  |__|  |__| |_______|
 
-<p align="center">
-    <img src="sources/images/kitten.gif" style="width:40%; margin: auto">
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24C5FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smenendez19)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=Black)](https://x.com/santimenendez19)
+[![Linktree](https://img.shields.io/badge/LINKTREE-1A00FF?style=for-the-badge&logo=link&logoColor=Black)](smenendez19.github.io/linktree)
+[![Mail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail)](mailto:santiagomenendez@outlook.com)
 
 ## About me 👍
 
@@ -17,8 +18,8 @@
 - 📚 Developer since 2018
 - 💼 I'm working as **Backend Developer** in Ualá
 - 🎓 Studing **Computer Engineer** in **Universidad Nacional de La Matanza** since 2016
-- 💻 Interests in **Full-Stack Developer** and **Software Developer**
-- 🎮 **Games**, **Anime**, **Movies**, **Rock**
+- 💻 Interests in **Full-Stack Developer** and **Backend Developer**
+- 🎮 **Games**, **Anime**, **Movies**, **F1**, **Rock**, **Nu Metal**
 - 🌎 **Spanish** and **English**
 
 ## 💻 Tech
@@ -71,28 +72,10 @@
 </div>
 
 ## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Views](https://komarev.com/ghpvc/?username=smenendez19&color=brightgreen)
-
-## ☎️ Contact
-
-<p>
-  <h3><img src="sources/images/contact/icons8-gmail-48.png" width="20" height="20" style="vertical-align:middle; display:inline;"> <a href="mailto:santiagomenendez@outlook.com">santiagomenendez@outlook.com</a></h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smenendez19&theme=material-palenight&hide_border=true&background=eeeee"/>
 </p>
-<p>
-  <h3><img src="sources/images/contact/icons8-linkedin-48.png" width="20" height="20" style="vertical-align:middle; display:inline;"> <a href="https://www.linkedin.com/in/smenendez19">linkedin.com/in/smenendez19</a></h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight">
 </p>
-<p>
-  <h3><img src="sources/images/contact/icons8-web-32.png" width="20" height="20" style="vertical-align:middle; display:inline;"> <a href="https://smenendez19.github.io/linktree">smenendez19.github.io/linktree</a></h3>
-</p>
-
-</br>
-
-## 🔗 Sources of templates and icons
-
-- Icons8: <https://icons8.com/>
-- Github readme stats: <https://github.com/anuraghazra/github-readme-stats>
