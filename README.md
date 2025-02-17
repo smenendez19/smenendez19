@@ -15,12 +15,12 @@
 ## About me 👍
 
 - 🎈 It's my GitHub Profile where i upload my projects and other things
-- 🎧 I'm **Santiago Menendez**, 26 years old
+- 🎧 I'm **Santiago Menendez**, 27 years old
 - 📚 Developer since 2018
 - 💼 I'm working as **Backend Developer** in Ualá
 - 🎓 Studing **Computer Engineer** in **Universidad Nacional de La Matanza** since 2016
-- 💻 Interests in **Full-Stack Developer** and **Software Developer**
-- 🎮 **Games**, **Anime**, **Movies**, **F1**, **Rock**, **Nu Metal**
+- 💻 Interests in **Software Developer**
+- 🎮 **Games**, **Movies**, **Series**, **Anime**, **Tech** **F1**, **Rock** and **Nu Metal**
 - 🌎 **Spanish** and **English**
 
 ## 💻 Tech
@@ -35,7 +35,7 @@
   <img src="sources/images/languages/icons8-java-64.png" width=48px height=48px>
 </div>
 
-### Big Data/DataBases
+### Databases and Big Data Tools
 
 <div>
   <img src="sources/images/tech/databases/icons8-mysql-logo-48.png">
@@ -74,9 +74,9 @@
 
 ## Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smenendez19&theme=material-palenight&hide_border=true&background=eeeee"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats"/>
+    <img src="https://streak-stats.demolab.com?user=smenendez19&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight" alt="Top languages">
 </p>
