@@ -75,7 +75,6 @@
 ## Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats"/>
-    <img src="https://streak-stats.demolab.com?user=smenendez19&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight" alt="Top languages">
