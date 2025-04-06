@@ -17,9 +17,9 @@
 - 🎈 It's my GitHub Profile where i upload my projects and other things
 - 🎧 I'm **Santiago Menendez**, 27 years old
 - 📚 Developer since 2018
-- 💼 I'm working as **Backend Developer** in Ualá
+- 💼 I'm working as **Software Engineer**
 - 🎓 Studing **Computer Engineer** in **Universidad Nacional de La Matanza** since 2016
-- 💻 Interests in **Software Developer**
+- 💻 Interests in **Software Engineer**, **Full Stack Developer** and **Backend Engineer**
 - 🎮 **Games**, **Movies**, **Series**, **Anime**, **Tech** **F1**, **Rock** and **Nu Metal**
 - 🌎 **Spanish** and **English**
 
