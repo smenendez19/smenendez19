@@ -1,3 +1,5 @@
+# Santiago Menendez - GitHub Profile
+
                             ____    __    ____  _______  __        ______   ______   .___  ___.  _______ 
                             \   \  /  \  /   / |   ____||  |      /      | /  __  \  |   \/   | |   ____|
                              \   \/    \/   /  |  |__   |  |     |  ,----'|  |  |  | |  \  /  | |  |__   
@@ -5,11 +7,10 @@
                                \    /\    /    |  |____ |  `----.|  `----.|  `--'  | |  |  |  | |  |____ 
                                 \__/  \__/     |_______||_______| \______| \______/  |__|  |__| |_______|
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24C5FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smenendez19)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smenendez19)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=Black)](https://x.com/santimenendez19)
-[![Linktree](https://img.shields.io/badge/Linktree-1A00FF?style=for-the-badge&logo=link&logoColor=Black)](https://smenendez19.github.io/linktree/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A00FF?style=for-the-badge&logo=link&logoColor=Black)](https://smenendez19.github.io/portfolio/)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://smenendez19.github.io/linktree/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://smenendez19.github.io/portfolio/)
 [![Mail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail)](mailto:santiagomenendez@outlook.com)
 
 ## About me 👍
@@ -27,55 +28,52 @@
 
 ### Programming languages
 
-<div>
-  <img src="sources/images/languages/icons8-python-48.png">
-  <img src="sources/images/languages/icons8-javascript-48.png">
-  <img src="sources/images/languages/icons8-bash-48.png">
-  <img src="sources/images/languages/icons8-golang-48.png">
-  <img src="sources/images/languages/icons8-java-64.png" width=48px height=48px>
-</div>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Databases and Big Data Tools
+### Databases and Big Data
 
-<div>
-  <img src="sources/images/tech/databases/icons8-mysql-logo-48.png">
-  <img src="sources/images/tech/databases/icons8-postgresql-48.png">
-  <img src="sources/images/tech/databases/icons8-hadoop-48.png">
-</div>
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ### Cloud Services
 
-<div>
-  <img src="sources/images/tech/cloud/icons8-aws-48.png">
-  <img src="sources/images/tech/cloud/icons8-google-cloud-48.png">
-</div>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Web
 
-<div>
-  <img src="sources/images/tech/web/icons8-html-5-48.png">
-  <img src="sources/images/tech/web/icons8-css3-48.png">
-  <img src="sources/images/tech/web/icons8-django-50.png">
-  <img src="sources/images/tech/web/icons8-heroku-48.png">
-  <img src="sources/images/tech/web/icons8-vue-js-48.png">
-  <img src="sources/images/tech/icons8-nodejs-48.png">
-  <img src="sources/images/tech/web/icons8-spring-boot-48.png">
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%232C3E50.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Other techs
 
-<div>
-  <img src="sources/images/tech/icons8-docker-48.png">
-  <img src="sources/images/tech/icons8-git-48.png">
-  <img src="sources/images/tech/icons8-kubernetes-48.png">
-  <img src="sources/images/tech/icons8-terraform-48.png">
-  <img src="sources/images/tech/icons8-office-365-48.png">
-</div>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight" alt="Top languages">
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight" alt="Top languages">
