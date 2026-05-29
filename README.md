@@ -78,8 +78,8 @@
 
 ### Other techs
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?style=for-the-badge&logo=sonarqubecloud&logoColor=fff)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=fff)
