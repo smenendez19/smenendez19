@@ -8,6 +8,7 @@
                                 \__/  \__/     |_______||_______| \______| \______/  |__|  |__| |_______|
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smenendez19)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0136f6fe977cba0e67)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=Black)](https://x.com/santimenendez19)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://smenendez19.github.io/linktree/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://smenendez19.github.io/portfolio/)
@@ -19,7 +20,7 @@
 - 🎧 I'm **Santiago Menendez**, 28 years old
 - 📚 Developer since 2018
 - 💼 I'm working as **Software Engineer**
-- 🎓 Studing **Computer Engineer** in **Universidad Nacional de La Matanza** since 2016
+- 🎓 **Computer Engineer** in **Universidad Nacional de La Matanza**
 - 💻 Interests in **Software Engineer**, **Full Stack Developer** and **Backend Engineer**
 - 🎮 **Games**, **Movies**, **Series**, **Anime**, **Tech** **F1**, **Rock** and **Nu Metal**
 - 🌎 **Spanish** and **English**
@@ -40,6 +41,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
@@ -51,6 +53,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)](#)
 
 ### Web
 
@@ -64,16 +67,25 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### Other techs
+### CI/CD
 
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Other techs
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?style=for-the-badge&logo=sonarqubecloud&logoColor=fff)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=fff)
+
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight" alt="Top languages">
+<img src="https://github-stats-extended.vercel.app/api?username=smenendez19&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=smenendez19&layout=compact&theme=tokyonight" alt="Top languages">
