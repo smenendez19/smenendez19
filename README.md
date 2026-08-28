@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smenendez19)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0136f6fe977cba0e67)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=Black)](https://x.com/santimenendez19)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://smenendez19.github.io/linktree/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://smenendez19.github.io/portfolio/)
 [![Mail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail)](mailto:santiagomenendez@outlook.com)
